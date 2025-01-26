@@ -1,10 +1,13 @@
 Inspiration
+<br />
 As college students, we’re navigating a crucial phase of our lives where securing internships and job opportunities is essential for shaping our future careers. However, the application process can be overwhelming, often requiring the submission of over 100 applications. These applications typically demand repetitive and time-consuming open-ended responses, leading to inefficiency and diminishing the quality of our submissions.
 
 What it does
+<br />
 ApplicAgent is an innovative platform designed to streamline the hiring process for both recruiters and applicants. For recruiters, ApplicAgent offers tools to manage job postings, evaluate candidates effectively, and engage in real-time chat with applicants, all within an intuitive dashboard. For applicants, the platform provides personalized job recommendations, profile editing capabilities, and real-time updates on application progress, ensuring a seamless job-seeking experience. With its user-friendly and modern interface, ApplicAgent bridges the gap between recruiters and applicants, making the hiring process more efficient, collaborative, and impactful for both parties.
 
 How we built it
+<br />
 Frontend: Vite + React - Leveraged for building a dynamic and responsive user interface. Vite serves as a fast and efficient build tool, enhancing development speed and performance, while React ensures a seamless and interactive user experience.
 Backend: Flask - Chosen for its lightweight and flexible nature, facilitating rapid development of our server-side logic and APIs. Flask enables efficient handling of requests and integration with other components.
 Database: MongoDB - Implemented for its scalability and flexibility in managing diverse and unstructured data. MongoDB Atlas provides a robust and secure cloud database solution, ideal for handling user information and application data.
@@ -18,6 +21,7 @@ Accomplishments that we're proud of
 One of our proudest achievements was successfully developing and deploying intelligent AI agents that automate and personalize responses for job and internship applications. These agents not only streamlined the application process by handling repetitive tasks efficiently but also enhanced the quality of submissions by generating tailored, impactful answers for each opportunity. Additionally, we seamlessly integrated these agents with multiple job platforms, demonstrating the robustness and scalability of ApplicAgent while ensuring a reliable and user-friendly experience for our users.
 
 What we learned
+<br />
 Agent Orchestration Layers - We gained valuable insights into designing and implementing orchestration layers for AI agents. This involved coordinating multiple agents to work seamlessly together, ensuring efficient task management and execution. Understanding orchestration was crucial for maintaining system scalability and reliability.
 LangGraph - Working with LangGraph enhanced our ability to visualize and manage the relationships between different language model components. We learned how to effectively use graph structures to represent complex interactions, which improved the contextual understanding and decision-making capabilities of our AI agents.
 LangChain - Integrating LangChain into our platform allowed us to manage the flow and orchestration of language models efficiently. We explored how LangChain facilitates the creation of complex language processing pipelines, enabling our agents to generate more accurate and contextually relevant responses.
